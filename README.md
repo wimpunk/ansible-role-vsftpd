@@ -1,6 +1,6 @@
 # Ansible role `vsftpd`
 
-[![Build Status](https://travis-ci.org/bertvv/ansible-role-vsftpd.svg?branch=master)](https://travis-ci.org/bertvv/ansible-role-vsftpd)
+[![Build Status](https://travis-ci.org/wimpunk/ansible-role-vsftpd.svg?branch=master)](https://travis-ci.org/bertvv/ansible-role-vsftpd)
 
 An Ansible role for setting up Vsftpd under CentOS/RHEL 6-7, Fedora 26, Ubuntu LTS 12.04 (precise) / 14.04 (trusty), or Debian 8 (Jessie) and 9 (Stretch). Specifically, the responsibilities of this role are to:
 
